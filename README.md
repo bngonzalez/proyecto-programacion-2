@@ -1,7 +1,7 @@
 # proyecto-programacion-2
 # inventario de objetos para mina de carbon
 integrantes: Juan Sebastian Morales Bayron Nidkolay Gonzales
-Enlaces perfiles Github: https://github.com/Cazatalentos?tab=overview&from=2025-03-01&to=2025-03-05(Sebastian morales)
+Enlaces perfiles Github: https://github.com/Cazatalentos?tab=overview&from=2025-03-01&to=2025-03-05(Sebastian morales) \ https://github.com/bngonzalez (Bayron Gonzalez)
 
 
 introduccion:
